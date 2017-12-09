@@ -1,0 +1,38 @@
+.picture{
+    width:20%;
+    height:250px;
+    border-radius: 10px;
+    margin: 20px 20px;
+/*    float: right;*/
+/*    border: 2px dotted black;*/
+    
+}
+body{
+    background-image: url(imgaes/background.jpg);
+    background-size: cover;
+}
+.header{
+    width:70%;
+    margin:auto;
+    margin-top: 50px;
+    border:5px solid grey;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    color:white;
+    font-size: 70px;
+    text-align: center;
+    background-image: url(imgaes/forword.jpg);
+    background-size:cover;
+}
+.profile{
+    color: white;
+    width:70%;
+    margin:auto;
+    margin-top: 20px;
+    background-image: url(imgaes/forword.jpg);
+    background-size:cover;
+/*    box-shadow: */
+    border:5px solid grey;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
